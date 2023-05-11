@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/pyatk/AndroidStudioProjects/Layouts/app/src/main/res/drawable-v24/card_list_40.xml" value="0.2155" />
+        <entry key="..\:/Users/pyatk/AndroidStudioProjects/Layouts/app/src/main/res/drawable-v24/gradient_button.xml" value="0.1715" />
+        <entry key="..\:/Users/pyatk/AndroidStudioProjects/Layouts/app/src/main/res/drawable-v24/red_button.xml" value="0.1715" />
+        <entry key="..\:/Users/pyatk/AndroidStudioProjects/Layouts/app/src/main/res/drawable/account_24.xml" value="0.1685" />
+        <entry key="..\:/Users/pyatk/AndroidStudioProjects/Layouts/app/src/main/res/drawable/account_list.xml" value="0.1715" />
+        <entry key="..\:/Users/pyatk/AndroidStudioProjects/Layouts/app/src/main/res/drawable/back_arrow_list.xml" value="0.1715" />
+        <entry key="..\:/Users/pyatk/AndroidStudioProjects/Layouts/app/src/main/res/drawable/baseline_menu_24.xml" value="0.198" />
+        <entry key="..\:/Users/pyatk/AndroidStudioProjects/Layouts/app/src/main/res/drawable/card_list.xml" value="0.183" />
+        <entry key="..\:/Users/pyatk/AndroidStudioProjects/Layouts/app/src/main/res/drawable/delete.xml" value="0.1015" />
+        <entry key="..\:/Users/pyatk/AndroidStudioProjects/Layouts/app/src/main/res/drawable/driver_list.xml" value="0.1715" />
+        <entry key="..\:/Users/pyatk/AndroidStudioProjects/Layouts/app/src/main/res/drawable/gradient_book.xml" value="0.1715" />
+        <entry key="..\:/Users/pyatk/AndroidStudioProjects/Layouts/app/src/main/res/drawable/gradient_left.xml" value="0.1715" />
+        <entry key="..\:/Users/pyatk/AndroidStudioProjects/Layouts/app/src/main/res/drawable/green_button.xml" value="0.1715" />
+        <entry key="..\:/Users/pyatk/AndroidStudioProjects/Layouts/app/src/main/res/drawable/green_button_without_stroke.xml" value="0.1715" />
+        <entry key="..\:/Users/pyatk/AndroidStudioProjects/Layouts/app/src/main/res/drawable/history_item.xml" value="0.1715" />
+        <entry key="..\:/Users/pyatk/AndroidStudioProjects/Layouts/app/src/main/res/drawable/history_list.xml" value="0.1715" />
+        <entry key="..\:/Users/pyatk/AndroidStudioProjects/Layouts/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1715" />
+        <entry key="..\:/Users/pyatk/AndroidStudioProjects/Layouts/app/src/main/res/drawable/ic_logo.xml" value="0.154" />
+        <entry key="..\:/Users/pyatk/AndroidStudioProjects/Layouts/app/src/main/res/drawable/menu_list.xml" value="0.1715" />
+        <entry key="..\:/Users/pyatk/AndroidStudioProjects/Layouts/app/src/main/res/drawable/mybutton.xml" value="0.154" />
+        <entry key="..\:/Users/pyatk/AndroidStudioProjects/Layouts/app/src/main/res/drawable/outline_menu_24.xml" value="0.198" />
+        <entry key="..\:/Users/pyatk/AndroidStudioProjects/Layouts/app/src/main/res/drawable/polo_10.xml" value="0.2155" />
+        <entry key="..\:/Users/pyatk/AndroidStudioProjects/Layouts/app/src/main/res/drawable/round_menu_24.xml" value="0.198" />
+        <entry key="..\:/Users/pyatk/AndroidStudioProjects/Layouts/app/src/main/res/drawable/rounded_button.xml" value="0.137" />
+        <entry key="..\:/Users/pyatk/AndroidStudioProjects/Layouts/app/src/main/res/drawable/rounded_corner.xml" value="0.137" />
+        <entry key="..\:/Users/pyatk/AndroidStudioProjects/Layouts/app/src/main/res/drawable/settings_list.xml" value="0.1715" />
+        <entry key="..\:/Users/pyatk/AndroidStudioProjects/Layouts/app/src/main/res/drawable/shadow.xml" value="0.227" />
+        <entry key="..\:/Users/pyatk/AndroidStudioProjects/Layouts/app/src/main/res/drawable/white_button.xml" value="0.137" />
+        <entry key="..\:/Users/pyatk/AndroidStudioProjects/Layouts/app/src/main/res/drawable/white_button_4.xml" value="0.1715" />
+        <entry key="..\:/Users/pyatk/AndroidStudioProjects/Layouts/app/src/main/res/layout-v21/booking.xml" value="0.20833333333333334" />
+        <entry key="..\:/Users/pyatk/AndroidStudioProjects/Layouts/app/src/main/res/layout-v21/list_item_car.xml" value="0.22521367521367522" />
+        <entry key="..\:/Users/pyatk/AndroidStudioProjects/Layouts/app/src/main/res/layout-v21/list_item_card.xml" value="0.22521367521367522" />
+        <entry key="..\:/Users/pyatk/AndroidStudioProjects/Layouts/app/src/main/res/layout-v21/map_yandex2.xml" value="0.24401913875598086" />
+        <entry key="..\:/Users/pyatk/AndroidStudioProjects/Layouts/app/src/main/res/layout/activity_main.xml" value="0.10400000000000001" />
+        <entry key="..\:/Users/pyatk/AndroidStudioProjects/Layouts/app/src/main/res/layout/activity_main2.xml" value="0.1" />
+        <entry key="..\:/Users/pyatk/AndroidStudioProjects/Layouts/app/src/main/res/layout/activity_main_drawler.xml" value="0.22521367521367522" />
+        <entry key="..\:/Users/pyatk/AndroidStudioProjects/Layouts/app/src/main/res/layout/activity_map.xml" value="0.2" />
+        <entry key="..\:/Users/pyatk/AndroidStudioProjects/Layouts/app/src/main/res/layout/add_card.xml" value="0.4" />
+        <entry key="..\:/Users/pyatk/AndroidStudioProjects/Layouts/app/src/main/res/layout/adress.xml" value="0.22521367521367522" />
+        <entry key="..\:/Users/pyatk/AndroidStudioProjects/Layouts/app/src/main/res/layout/app_bar_main.xml" value="0.1" />
+        <entry key="..\:/Users/pyatk/AndroidStudioProjects/Layouts/app/src/main/res/layout/booking.xml" value="0.28019323671497587" />
+        <entry key="..\:/Users/pyatk/AndroidStudioProjects/Layouts/app/src/main/res/layout/booking_adress.xml" value="0.2" />
+        <entry key="..\:/Users/pyatk/AndroidStudioProjects/Layouts/app/src/main/res/layout/booking_after_adress.xml" value="0.22521367521367522" />
+        <entry key="..\:/Users/pyatk/AndroidStudioProjects/Layouts/app/src/main/res/layout/booking_cancel.xml" value="0.22521367521367522" />
+        <entry key="..\:/Users/pyatk/AndroidStudioProjects/Layouts/app/src/main/res/layout/booking_report.xml" value="0.22521367521367522" />
+        <entry key="..\:/Users/pyatk/AndroidStudioProjects/Layouts/app/src/main/res/layout/booking_stop.xml" value="0.205761316872428" />
+        <entry key="..\:/Users/pyatk/AndroidStudioProjects/Layouts/app/src/main/res/layout/bottom_main.xml" value="0.17606837606837608" />
+        <entry key="..\:/Users/pyatk/AndroidStudioProjects/Layouts/app/src/main/res/layout/content_main.xml" value="0.22521367521367522" />
+        <entry key="..\:/Users/pyatk/AndroidStudioProjects/Layouts/app/src/main/res/layout/default_screen.xml" value="0.22521367521367522" />
+        <entry key="..\:/Users/pyatk/AndroidStudioProjects/Layouts/app/src/main/res/layout/first.xml" value="0.264" />
+        <entry key="..\:/Users/pyatk/AndroidStudioProjects/Layouts/app/src/main/res/layout/fragment_blank.xml" value="0.16153846153846155" />
+        <entry key="..\:/Users/pyatk/AndroidStudioProjects/Layouts/app/src/main/res/layout/fragment_gallery.xml" value="0.12222222222222222" />
+        <entry key="..\:/Users/pyatk/AndroidStudioProjects/Layouts/app/src/main/res/layout/fragment_home.xml" value="0.12222222222222222" />
+        <entry key="..\:/Users/pyatk/AndroidStudioProjects/Layouts/app/src/main/res/layout/fragment_scrolling.xml" value="0.22236286919831225" />
+        <entry key="..\:/Users/pyatk/AndroidStudioProjects/Layouts/app/src/main/res/layout/fragment_slideshow.xml" value="0.12222222222222222" />
+        <entry key="..\:/Users/pyatk/AndroidStudioProjects/Layouts/app/src/main/res/layout/get_adress.xml" value="0.4" />
+        <entry key="..\:/Users/pyatk/AndroidStudioProjects/Layouts/app/src/main/res/layout/google.xml" value="0.22521367521367522" />
+        <entry key="..\:/Users/pyatk/AndroidStudioProjects/Layouts/app/src/main/res/layout/header.xml" value="0.16153846153846155" />
+        <entry key="..\:/Users/pyatk/AndroidStudioProjects/Layouts/app/src/main/res/layout/history.xml" value="0.2" />
+        <entry key="..\:/Users/pyatk/AndroidStudioProjects/Layouts/app/src/main/res/layout/history_date.xml" value="0.2" />
+        <entry key="..\:/Users/pyatk/AndroidStudioProjects/Layouts/app/src/main/res/layout/left_fragment.xml" value="0.264" />
+        <entry key="..\:/Users/pyatk/AndroidStudioProjects/Layouts/app/src/main/res/layout/licence.xml" value="0.2" />
+        <entry key="..\:/Users/pyatk/AndroidStudioProjects/Layouts/app/src/main/res/layout/list_of_cards.xml" value="0.264" />
+        <entry key="..\:/Users/pyatk/AndroidStudioProjects/Layouts/app/src/main/res/layout/login.xml" value="0.22521367521367522" />
+        <entry key="..\:/Users/pyatk/AndroidStudioProjects/Layouts/app/src/main/res/layout/main_header.xml" value="0.22521367521367522" />
+        <entry key="..\:/Users/pyatk/AndroidStudioProjects/Layouts/app/src/main/res/layout/map.xml" value="0.2" />
+        <entry key="..\:/Users/pyatk/AndroidStudioProjects/Layouts/app/src/main/res/layout/map_yandex.xml" value="0.1941747572815534" />
+        <entry key="..\:/Users/pyatk/AndroidStudioProjects/Layouts/app/src/main/res/layout/menu.xml" value="0.22521367521367522" />
+        <entry key="..\:/Users/pyatk/AndroidStudioProjects/Layouts/app/src/main/res/layout/navigation_view.xml" value="0.22521367521367522" />
+        <entry key="..\:/Users/pyatk/AndroidStudioProjects/Layouts/app/src/main/res/layout/profile.xml" value="0.4" />
+        <entry key="..\:/Users/pyatk/AndroidStudioProjects/Layouts/app/src/main/res/layout/register.xml" value="0.1543859649122807" />
+        <entry key="..\:/Users/pyatk/AndroidStudioProjects/Layouts/app/src/main/res/layout/settings.xml" value="0.264" />
+        <entry key="..\:/Users/pyatk/AndroidStudioProjects/Layouts/app/src/main/res/menu/activity_main_drawer.xml" value="0.176" />
+        <entry key="..\:/Users/pyatk/AndroidStudioProjects/Layouts/app/src/main/res/menu/main.xml" value="0.12222222222222222" />
+        <entry key="..\:/Users/pyatk/AndroidStudioProjects/Layouts/app/src/main/res/menu/nav_navdrawermenu.xml" value="0.22521367521367522" />
+        <entry key="..\:/Users/pyatk/AndroidStudioProjects/Layouts/app/src/main/res/menu/navigation_drawler.xml" value="0.22521367521367522" />
+      </map>
+    </option>
+  </component>
+  <component name="JavadocGenerationManager">
+    <option name="OUTPUT_DIRECTORY" value="$USER_HOME$/Desktop" />
+    <option name="LOCALE" value="en" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

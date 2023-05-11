@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/map_graph"
+    app:startDestination="@id/map">
+
+    <fragment
+        android:id="@+id/map"
+        android:name="com.example.layouts.view.Map"
+        android:label="map_yandex"
+        tools:layout="@layout/map_yandex" >
+        <action
+            android:id="@+id/action_map_to_mapAddress"
+            app:destination="@id/mapAddress" />
+    </fragment>
+    <fragment
+        android:id="@+id/nav_profile"
+        android:name="com.example.layouts.view.Profile"
+        android:label="profile"
+        tools:layout="@layout/profile" />
+    <fragment
+        android:id="@+id/nav_history"
+        android:name="com.example.layouts.view.History"
+        android:label="history"
+        tools:layout="@layout/history" />
+    <fragment
+        android:id="@+id/nav_settings"
+        android:name="com.example.layouts.view.Settings"
+        android:label="settings"
+        tools:layout="@layout/settings" >
+        <action
+            android:id="@+id/action_nav_settings_to_cards"
+            app:destination="@id/cards" />
+    </fragment>
+    <fragment
+        android:id="@+id/mapAddress"
+        android:name="com.example.layouts.view.MapAddress"
+        android:label="MapAddress" >
+        <action
+            android:id="@+id/action_mapAddress_to_map"
+            app:destination="@id/map" />
+    </fragment>
+    <fragment
+        android:id="@+id/cards"
+        android:name="com.example.layouts.view.Cards"
+        android:label="list_of_cards"
+        tools:layout="@layout/list_of_cards" >
+        <action
+            android:id="@+id/action_cards_to_nav_settings"
+            app:destination="@id/nav_settings" />
+        <action
+            android:id="@+id/action_cards_to_addCard"
+            app:destination="@id/addCard" />
+        <action
+            android:id="@+id/action_cards_self"
+            app:destination="@id/cards" />
+    </fragment>
+    <fragment
+        android:id="@+id/addCard"
+        android:name="com.example.layouts.view.AddCard"
+        android:label="add_card"
+        tools:layout="@layout/add_card" >
+        <action
+            android:id="@+id/action_addCard_to_cards"
+            app:destination="@id/cards" />
+    </fragment>
+</navigation>

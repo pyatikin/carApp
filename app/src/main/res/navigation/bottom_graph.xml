@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/bottom_map"
+    app:startDestination="@id/booking">
+    <fragment
+        android:id="@+id/booking_adress"
+        android:name="com.example.layouts.view.booking_adress"
+        android:label="booking_adress"
+        tools:layout="@layout/booking_adress" >
+        <action
+            android:id="@+id/action_booking_adress_to_booking"
+            app:destination="@id/booking" />
+        <action
+            android:id="@+id/action_booking_adress_to_address"
+            app:destination="@id/address" />
+        <action
+            android:id="@+id/action_booking_adress_to_afterAddress"
+            app:destination="@id/afterAddress" />
+    </fragment>
+    <fragment
+        android:id="@+id/booking"
+        android:name="com.example.layouts.view.Booking"
+        android:label="Booking" >
+        <action
+            android:id="@+id/action_booking_to_booking_adress"
+            app:destination="@id/booking_adress" />
+        <action
+            android:id="@+id/action_booking_to_booking_stop"
+            app:destination="@id/booking_stop" />
+    </fragment>
+    <fragment
+        android:id="@+id/address"
+        android:name="com.example.layouts.view.Address"
+        android:label="get_adress"
+        tools:layout="@layout/get_adress" >
+        <action
+            android:id="@+id/action_address_to_booking_adress"
+            app:destination="@id/booking_adress" />
+    </fragment>
+    <fragment
+        android:id="@+id/afterAddress"
+        android:name="com.example.layouts.view.AfterAddress"
+        android:label="booking_after_adress"
+        tools:layout="@layout/booking_after_adress" >
+        <action
+            android:id="@+id/action_afterAddress_to_booking_adress"
+            app:destination="@id/booking_adress" />
+        <action
+            android:id="@+id/action_afterAddress_to_booking_stop"
+            app:destination="@id/booking_stop" />
+    </fragment>
+    <fragment
+        android:id="@+id/booking_stop"
+        android:name="com.example.layouts.view.Booking_stop"
+        android:label="booking_stop"
+        tools:layout="@layout/booking_stop" >
+        <action
+            android:id="@+id/action_booking_stop_to_booking"
+            app:destination="@id/booking" />
+    </fragment>
+</navigation>

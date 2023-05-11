@@ -1,0 +1,9 @@
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:drawable="@drawable/driver"
+        android:width="70dp"
+        android:height="70dp"
+        />
+
+</layer-list >

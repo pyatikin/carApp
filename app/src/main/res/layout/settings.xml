@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.layouts.view.Settings">
+<androidx.constraintlayout.widget.ConstraintLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/mainBG">
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:layout_marginTop="96dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/settings" />
+
+    <Button
+        android:id="@+id/cards"
+        android:layout_width="260dp"
+        android:layout_height="52dp"
+        android:layout_marginTop="64dp"
+        android:drawableRight="@drawable/card_list"
+        android:fontFamily="@font/roboto_light"
+        android:gravity="left|center"
+        android:paddingLeft="18dp"
+        android:text="Банковские карты"
+        android:textSize="14sp"
+        app:cornerRadius="10dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.496"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageView"
+        app:strokeWidth="1dp" />
+
+    <Button
+        android:id="@+id/delete"
+        android:layout_width="260dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="36dp"
+        android:drawableRight="@drawable/delete"
+        android:fontFamily="@font/roboto_light"
+        android:gravity="left|center"
+        android:paddingLeft="18dp"
+        android:text="Удаление аккаунта"
+        android:textColor="#F54747"
+        android:textSize="14sp"
+        app:cornerRadius="10dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.496"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/cards"
+        app:strokeWidth="1dp" />
+
+    <Button
+        android:id="@+id/exit"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="32dp"
+        android:fontFamily="@font/roboto_light"
+        android:text="Выход"
+        android:textSize="18dp"
+        android:backgroundTint="@color/mainBG"
+        android:outlineSpotShadowColor="@color/mainBG"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent" />
+</androidx.constraintlayout.widget.ConstraintLayout>
+</FrameLayout>

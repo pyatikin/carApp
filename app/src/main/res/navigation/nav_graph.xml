@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/login">
+    <fragment
+        android:id="@+id/login"
+        android:name="com.example.layouts.view.Login"
+        android:label="login"
+        tools:layout="@layout/login" >
+        <action
+            android:id="@+id/action_login_to_registration"
+            app:destination="@id/registration" />
+        <action
+            android:id="@+id/action_login_to_mapMain"
+            app:destination="@id/mapMain" />
+    </fragment>
+    <fragment
+        android:id="@+id/registration"
+        android:name="com.example.layouts.view.Registration"
+        android:label="register"
+        tools:layout="@layout/register" >
+        <action
+            android:id="@+id/action_registration_to_mapMain"
+            app:destination="@id/mapMain" />
+    </fragment>
+    <fragment
+        android:id="@+id/menu"
+        android:name="com.example.layouts.view.Menu"
+        android:label="menu"
+        tools:layout="@layout/menu" />
+    <activity
+        android:id="@+id/mapMain"
+        android:name="com.example.layouts.view.MapMain"
+        android:label="MapMain" />
+    <fragment
+        android:id="@+id/map2"
+        android:name="com.example.layouts.view.Map"
+        android:label="map_yandex"
+        tools:layout="@layout/map_yandex" />
+    <fragment
+        android:id="@+id/licence"
+        android:name="com.example.layouts.view.Licence"
+        android:label="licence"
+        tools:layout="@layout/licence" />
+</navigation>
